@@ -1,2 +1,3 @@
 # toolkit
-Designed to automate common tasks in server or development environment configuration and administration.
+
+Designed to automate common tasks in configuring and managing servers or development environments.
